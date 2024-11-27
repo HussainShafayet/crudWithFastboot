@@ -1,1 +1,7 @@
 /* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
+/* app/styles/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom styles here */
